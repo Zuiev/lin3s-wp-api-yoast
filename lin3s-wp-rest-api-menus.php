@@ -1,9 +1,9 @@
 <?php
 
 /*
- * Plugin Name: Lin3s Rest Api Menus
+ * Plugin Name: Lookiero Lin3s Rest Api Menus
  * Plugin URI: http://lin3s.com
- * Author: LIN3S
+ * Author: LIN3S / Lookiero
  * Author URI: http://lin3s.com
  */
 

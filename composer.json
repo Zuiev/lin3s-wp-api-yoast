@@ -10,10 +10,11 @@
       "email": "jose@lin3s.com"
     }
   ],
-
   "autoload": {
     "psr-4": {
-      "Lin3sWPRestApiMenus\\": ["src/"]
+      "Lin3sWPRestApiMenus\\": [
+        "src/"
+      ]
     }
   }
 }
