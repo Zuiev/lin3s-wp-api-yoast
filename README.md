@@ -2,11 +2,7 @@
 
 Adds endpoints to Rest Api for WP menus
 
-## Installation
 
-> Make sure you add LIN3S' private repository before requiring this dependency
-
-`composer require lin3s-wp-rest-api-menus`
 
 ## Endpoints
 

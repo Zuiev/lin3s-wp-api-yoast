@@ -1,13 +1,13 @@
 {
-  "name": "lin3s/lin3s-wp-rest-api-menus",
+  "name": "zuiev/lin3s-wp-rest-api-menus",
   "description": "WP Rest Api menus",
-  "homepage": "http://lin3s.com",
+  "homepage": "http://github.com",
   "type": "wordpress-plugin",
   "license": "proprietary",
   "authors": [
     {
-      "name": "José Elías Gutiérrez",
-      "email": "jose@lin3s.com"
+      "name": "Diego F",
+      "email": ""
     }
   ],
   "autoload": {
